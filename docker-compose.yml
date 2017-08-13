@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  node-docker-compose:
+    image: node-docker-compose
+    build: .
+    ports:
+      - 8888:8888

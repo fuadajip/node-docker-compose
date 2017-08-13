@@ -1,0 +1,23 @@
+{
+  "name": "node-docker-compose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuadajip/node-docker-compose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuadajip/node-docker-compose/issues"
+  },
+  "homepage": "https://github.com/fuadajip/node-docker-compose#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
